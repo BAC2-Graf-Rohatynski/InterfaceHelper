@@ -1,0 +1,5 @@
+package interfacehelper
+
+import interfacehelper.interfaces.IMyOperatingSystem
+
+object MyOperatingSystem: IMyOperatingSystem
